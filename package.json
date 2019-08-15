@@ -1,7 +1,7 @@
 {
   "name": "express-react-webpack-babel",
   "version": "1.0.0",
-  "description": "",
+  "description": "try to understand basic things",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,8 +12,9 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/username/repository.git"
+    "url": "https://github.com/denis1989java/node-new-app.git"
   },
+  "private": false,
   "dependencies": {
     "express": "4.17.1",
     "react": "16.9.0",
